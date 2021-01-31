@@ -1,0 +1,11 @@
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\bin\Debug\CGPA calculator by shantanu.exe.config
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\bin\Debug\CGPA calculator by shantanu.exe
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\bin\Debug\CGPA calculator by shantanu.pdb
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\obj\Debug\CGPA calculator by shantanu.csprojResolveAssemblyReference.cache
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\obj\Debug\CGPA_calculator_by_shantanu.Form1.resources
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\obj\Debug\CGPA_calculator_by_shantanu.Properties.Resources.resources
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\obj\Debug\CGPA calculator by shantanu.csproj.GenerateResource.cache
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\obj\Debug\CGPA calculator by shantanu.csproj.CoreCompileInputs.cache
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\obj\Debug\CGPA calculator by shantanu.exe
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\obj\Debug\CGPA calculator by shantanu.pdb
+J:\Dot net Practice app\CGPA calculator by shantanu\CGPA calculator by shantanu\obj\Debug\CGPA_calculator_by_shantanu.Form2.resources
